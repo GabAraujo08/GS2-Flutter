@@ -61,19 +61,17 @@ Telas principais: Início, Contatos, Clima e cuidados, Histórico, Preciso de aj
 
 ## Prints das telas
 
-Adicione as imagens na pasta `docs/prints/` e mantenha os nomes abaixo.
-
 | Splash | Introdução | Início |
 |---|---|---|
-| ![Splash](docs/prints/01-splash.png) | ![Introdução](docs/prints/02-introducao.png) | ![Início](docs/prints/03-inicio.png) |
+| ![Splash](lib\docs\prints\01-splash.png) | ![Introdução](lib\docs\prints\02-introducao.png) | ![Início](lib\docs\prints\03-inicio.png) |
 
 | Preciso de ajuda | Contatos | Clima |
 |---|---|---|
-| ![Ajuda](docs/prints/04-ajuda.png) | ![Contatos](docs/prints/05-contatos.png) | ![Clima](docs/prints/06-clima.png) |
+| ![Ajuda](lib\docs\prints\04-ajuda.png) | ![Contatos](lib\docs\prints\05-contatos.png) | ![Clima](lib\docs\prints\06-clima.png) |
 
 | Detalhe do dia | Histórico | Erro de rede |
 |---|---|---|
-| ![Detalhe](docs/prints/07-detalhe.png) | ![Histórico](docs/prints/08-historico.png) | ![Erro](docs/prints/09-erro.png) |
+| ![Detalhe](lib\docs\prints\07-detalhe.png) | ![Histórico](lib\docs\prints\08-historico.png) | ![Erro](lib\docs\prints\09-erro.png) |
 
 ## API utilizada
 
@@ -157,4 +155,4 @@ As ligações usam o discador do aparelho. No emulador, a chamada pode não abri
 
 ## Vídeo pitch
 
-Link do vídeo (YouTube, público): _adicionar aqui_
+Recado: Professor, o vídeo pitch ainda não está pronto, ele possui data máxima de entrega até 19/11.
